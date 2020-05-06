@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "mod-version-checker",
+  "ccmodHumanName": "Mod version checker (CC-MVC)",
+  "description": "Pulls mod versions from CCModDB and notifies when there are updates available",
+  "postload": "postload.js",
+  "ccmodDependencies": {
+    "crosscode": ">=1.2.0"
+  }
+}
